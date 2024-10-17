@@ -8,10 +8,10 @@ body{
 .main-div{
     background-size: 180%;
     background-position-y:-100px ;
-    transition: all ease-in-out 0.5s;
+    transition: all ease-in-out 0.3s;
 }
 .main-div:hover{
-    background-size: 120%;
+    background-size: 140%;
 }
 .gradient-text {
   text-shadow: 0 0 18px #f40000;
