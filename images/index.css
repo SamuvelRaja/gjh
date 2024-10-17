@@ -6,12 +6,12 @@ body{
     font-family: 'clash' , sans-serif;
 }
 .main-div{
-    background-size: 160%;
+    background-size: 180%;
     background-position-y:-100px ;
     transition: all ease-in-out 0.5s;
 }
 .main-div:hover{
-    background-size: 80%;
+    background-size: 120%;
 }
 .gradient-text {
   text-shadow: 0 0 18px #0000ff;
