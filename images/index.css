@@ -1,0 +1,21 @@
+@font-face {
+    font-family: clash;
+    src: url(./ClashDisplay.ttf);
+}
+body{
+    font-family: 'clash' , sans-serif;
+}
+.main-div{
+    background-size: 160%;
+    background-position-y:-100px ;
+    transition: all ease-in-out 0.5s;
+}
+.main-div:hover{
+    background-size: 80%;
+}
+.gradient-text {
+  text-shadow: 0 0 18px #0000ff;
+}
+.glow-text {
+  text-shadow: 0 0 10px #ff0000; /* Adjust color, offset, and blur as needed */
+}
