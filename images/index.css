@@ -14,7 +14,7 @@ body{
     background-size: 120%;
 }
 .gradient-text {
-  text-shadow: 0 0 18px #0000ff;
+  text-shadow: 0 0 18px #f40000;
 }
 .glow-text {
   text-shadow: 0 0 10px #ff0000; /* Adjust color, offset, and blur as needed */
